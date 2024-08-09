@@ -12,11 +12,6 @@ Welcome to my **30 Days of JavaScript** journey! Over the next month, I'll be di
 2. **Code Snippets**: I’ll share useful code snippets and explanations to help others understand key concepts.
 3. **Project Showcase**: By the end of the 30 days, I’ll have a collection of projects demonstrating my progress and skills.
 
-## 📅 Timeline:
-- **Day 1-10**: Basics of JavaScript, Data Types, Functions, and Loops.
-- **Day 11-20**: DOM Manipulation, Events, and API Integration.
-- **Day 21-30**: Advanced Topics like Async/Await, Promises, and ES6+ Features.
-
 ## 📂 Project Structure:
 
 ```plaintext
